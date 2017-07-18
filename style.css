@@ -1,4 +1,31 @@
+
 img {
-width: 10%;
-height: 5%;
+width: 20%;
+height: 20%;
+}
+
+p {
+	color: #red;
+    background-color:#ebebeb;
+    color: #777;
+    padding: 20px; 
+
+}
+
+#p1 {
+
+	float: left;
+}
+
+#p2 {
+	float: left;
+}
+
+h2 {
+	float: left;
+	margin: 40px;
+}
+ul {
+
+	float: left;
 }
